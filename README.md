@@ -1,5 +1,5 @@
 ### Привет!
-Я <b>Шумило Владислав<b>, разработчик на python.
+Я <b>Шумило Владислав</b>, разработчик на python.
 
 ### Мой стек
 Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, PostgreSQL, Git, Docker, Requests, SqlAlchemy, Gitflow, Web-Scrapping.
