@@ -1,16 +1,30 @@
-### Hi there 👋
+Привет!
+Я Шумило Владислав, разработчик на python.
 
-<!--
-**pineappleVlad/pineappleVlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой стек
+Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, PostgreSQL, Git, Docker, Requests, SqlAlchemy, Gitflow, Web-Scrapping.
 
-Here are some ideas to get you started:
+Примеры моих проектов:
+Курсовая работа по requests - https://github.com/pineappleVlad/CoursesWorkNetology
+Итоговая работа по Postgresql и SqlAlchemy - https://github.com/pineappleVlad/psql5
+Парсер вакансий на hh.ru - https://github.com/pineappleVlad?tab=repositories
+Итераторы, генераторы - https://github.com/pineappleVlad/iters_geners
+Декораторы - https://github.com/pineappleVlad/dekorators
+Автотесты - https://github.com/pineappleVlad/autotests_quest1-2
+Автотест Selenium - https://github.com/pineappleVlad/autotests_selenium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Сертификаты Нетологии
+
+Профессиональная работа с Python https://github.com/pineappleVlad/pineappleVlad/blob/main/prof_w.pdf
+
+Git https://github.com/pineappleVlad/pineappleVlad/blob/main/git.pdf
+
+Английский для it https://github.com/pineappleVlad/pineappleVlad/blob/main/english.pdf
+
+SQL и PostgreSQL https://github.com/pineappleVlad/pineappleVlad/blob/main/database.pdf
+
+Основы Python https://github.com/pineappleVlad/pineappleVlad/blob/main/basic.pdf
+
+Сертификат Stepik https://github.com/pineappleVlad/pineappleVlad/blob/main/stepik-certificate-58852-69ab603.pdf
