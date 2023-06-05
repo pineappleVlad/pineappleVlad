@@ -20,6 +20,14 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio,
 
 - Автотест Selenium - https://github.com/pineappleVlad/autotests_selenium
 
+- Реализация верификационного кода на Python - https://gitlab.com/strelas1/seating-generator-python
+
+- Django-новости - https://github.com/pineappleVlad/django_news
+
+- Django-Postgresql - https://github.com/pineappleVlad/django_db
+
+- Django-Пагинация - https://github.com/pineappleVlad/django_pagi
+
 
 ### Сертификаты Нетологии и Stepik
 
