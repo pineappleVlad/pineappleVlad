@@ -6,9 +6,9 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio,
 
 ### Примеры моих проектов:
 
-- Курсовая работа по requests - https://github.com/pineappleVlad/CoursesWorkNetology
+- Работа по requests - https://github.com/pineappleVlad/CoursesWorkNetology
 
-- Итоговая работа по Postgresql и SqlAlchemy - https://github.com/pineappleVlad/psql5
+- Работа по Postgresql и SqlAlchemy - https://github.com/pineappleVlad/psql5
 
 - Парсер вакансий на hh.ru - https://github.com/pineappleVlad?tab=repositories
 
