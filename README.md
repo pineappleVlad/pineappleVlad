@@ -28,6 +28,8 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 
 - Django-Пагинация - https://github.com/pineappleVlad/django_pagi
 
+- Django-REST проект - https://github.com/pineappleVlad/django_sensors
+
 
 ### Сертификаты Нетологии и Stepik
 
