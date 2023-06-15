@@ -10,7 +10,7 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 
 - Работа по Postgresql и SqlAlchemy - https://github.com/pineappleVlad/psql5
 
-- Парсер вакансий на hh.ru - https://github.com/pineappleVlad?tab=repositories
+- Парсер вакансий на hh.ru - https://github.com/pineappleVlad/web_scrapping
 
 - Итераторы, генераторы - https://github.com/pineappleVlad/iters_geners
 
