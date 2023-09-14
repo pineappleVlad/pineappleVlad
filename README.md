@@ -1,8 +1,16 @@
 ### Привет!
 Я <b>Шумило Владислав</b>, разработчик на python.
 
+### Опыт работы:
+02.2023 - 09.2023 коммерческая разработка на Mafbase.ru
+Реализация проектов по backend, телеграмм-ботам, верификации, отправки электронных кодов.
+Технологии: Flask, API, Git, Docker, Telebot, Requests, Bash, Postgresql.
+
+09.2022 - 02.2023 учебная разработка по проектам Netology.ru
+Технологии: Python Basic, Algorithms, Английский для чтения документации, Терминал Bash, Git, ООП, Postgresql, SQL, Psycopg2, ORM, Регулярные выражения, Парсинг, Разработка тестов, Django, Django-testing, Django REST, Практика с сервером, CI/CD, Docker, Docker Compose, Flask, Aiohttp, Asyncio, Celery.
+
 ### Мой стек
-Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, PostgreSQL, Git, Docker, Requests, SqlAlchemy, Gitflow, Web-Scrapping.
+Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, PostgreSQL, Git, Docker, Requests, SqlAlchemy, Gitflow, Web-Scrapping, Flask, Английский для чтения документации, Telebot, Postgresql, ООП, рактика с сервером, CI/CD, Docker, Docker Compose, Flask, Aiohttp, Asyncio, Celery.
 
 ### Примеры моих проектов:
 
