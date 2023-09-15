@@ -14,8 +14,8 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 
 ### Примеры моих проектов:
 
-- Коммерческий проект: разработка телеграмм-бота + его API для рассылки - https://gitlab.com/strelas1/seating-telegram-info/-/tree/develop?ref_type=heads
-
+- Коммерческий проект: разработка телеграмм-бота + его API для рассылки - https://gitlab.com/strelas1/seating-telegram-info/
+  
 - Работа по requests - https://github.com/pineappleVlad/CoursesWorkNetology
 
 - Работа по Postgresql и SqlAlchemy - https://github.com/pineappleVlad/psql5
