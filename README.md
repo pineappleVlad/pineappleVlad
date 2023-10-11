@@ -59,4 +59,4 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 
 - Сертификат Stepik https://github.com/pineappleVlad/pineappleVlad/blob/main/stepik-certificate-58852-69ab603.pdf
 
-  ### Успешно прошел отборочный интенсив в школе 21 (Сбер) на языке C, прохожу основное обучение
+**Успешно прошел отборочный интенсив в школе 21 (Сбер) на языке C, прохожу основное обучение**
