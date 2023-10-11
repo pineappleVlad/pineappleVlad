@@ -15,6 +15,10 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 ### Примеры моих проектов:
 
 - Коммерческий проект: разработка телеграмм-бота + его API для рассылки - https://gitlab.com/strelas1/seating-telegram-info/
+
+- Коммерческий проект: бот для сбора статистики (парсит сайт и вытаскивает информацию) и отображения в телеграмме - https://github.com/pineappleVlad/parse_gomafia_bot
+
+- Коммерческий проект: веб-сервис для отправки кода верификации на почту (Flask) - https://gitlab.com/strelas1/seating-generator-python
   
 - Работа по requests - https://github.com/pineappleVlad/CoursesWorkNetology
 
@@ -30,10 +34,6 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 
 - Автотест Selenium - https://github.com/pineappleVlad/autotests_selenium
 
-- Реализация верификационного кода на Python - https://gitlab.com/strelas1/seating-generator-python
-
-- Django-новости - https://github.com/pineappleVlad/django_news
-
 - Django-Postgresql - https://github.com/pineappleVlad/django_db
 
 - Django-Пагинация - https://github.com/pineappleVlad/django_pagi
@@ -45,6 +45,10 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 
 - Профессиональная работа с Python https://github.com/pineappleVlad/pineappleVlad/blob/main/prof_w.pdf
 
+- Django для веб-разработки https://netology.ru/sharing/576ba64e6357f7d10901b94b96de3813?utm_source=social&utm_campaign=certificate_lms
+
+- Веб-разработка на Python https://netology.ru/sharing/e268ea62503a579cff05ad3136623e66?utm_source=social&utm_campaign=certificate_lms 
+
 - Git https://github.com/pineappleVlad/pineappleVlad/blob/main/git.pdf
 
 - Английский для it https://github.com/pineappleVlad/pineappleVlad/blob/main/english.pdf
@@ -54,3 +58,5 @@ Linux, Windows, Bash, Python, Django Framework, Django REST, Database, API, Post
 - Основы Python https://github.com/pineappleVlad/pineappleVlad/blob/main/basic.pdf
 
 - Сертификат Stepik https://github.com/pineappleVlad/pineappleVlad/blob/main/stepik-certificate-58852-69ab603.pdf
+
+  ### Успешно прошел отборочный интенсив в школе 21 (Сбер) на языке C, прохожу основное обучение
